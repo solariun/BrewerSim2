@@ -1,0 +1,6 @@
+[submodule "CorePartition"]
+	path = CorePartition
+	url = https://github.com/solariun/CorePartition.git
+[submodule "e-Paper"]
+	path = e-Paper
+	url = https://github.com/solariun/e-Paper.git
